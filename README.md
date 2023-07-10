@@ -3,10 +3,10 @@
  <img width=200px height=200px src="./public/images/voting.png" alt="Project logo"></a>
 </p>
 
-<h1 align="center">BlockVote🗳️</h1>
+<h1 align="center">Vote-Chain🗳️</h1>
 
 
-<p align="center"> A Blockchain based voting application using solidity, truffle and nodejs.
+<p align="center"> A Blockchain-based voting application using solidity, truffle, and nodejs.
     <br> 
 </p>
 
